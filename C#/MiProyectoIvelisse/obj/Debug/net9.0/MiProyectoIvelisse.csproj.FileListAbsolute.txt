@@ -1,0 +1,14 @@
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\bin\Debug\net9.0\MiProyectoIvelisse.exe
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\bin\Debug\net9.0\MiProyectoIvelisse.deps.json
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\bin\Debug\net9.0\MiProyectoIvelisse.runtimeconfig.json
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\bin\Debug\net9.0\MiProyectoIvelisse.dll
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\bin\Debug\net9.0\MiProyectoIvelisse.pdb
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\MiProyectoIvelisse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\MiProyectoIvelisse.AssemblyInfoInputs.cache
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\MiProyectoIvelisse.AssemblyInfo.cs
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\MiProyectoIvelisse.csproj.CoreCompileInputs.cache
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\MiProyectoIvelisse.dll
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\refint\MiProyectoIvelisse.dll
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\MiProyectoIvelisse.pdb
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\MiProyectoIvelisse.genruntimeconfig.cache
+C:\Users\Ivelisse\Desktop\C#\MiProyectoIvelisse\obj\Debug\net9.0\ref\MiProyectoIvelisse.dll
